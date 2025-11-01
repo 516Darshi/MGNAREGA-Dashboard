@@ -1,0 +1,12 @@
+[
+  { "name": "Jharkhand", "slug": "jharkhand", "code": 20 },
+  { "name": "Bihar", "slug": "bihar", "code": 10 },
+  { "name": "West Bengal", "slug": "west-bengal", "code": 19 },
+  { "name": "Uttar Pradesh", "slug": "uttar-pradesh", "code": 9 },
+  { "name": "Madhya Pradesh", "slug": "madhya-pradesh", "code": 17 },
+  { "name": "Rajasthan", "slug": "rajasthan", "code": 8 },
+  { "name": "Maharashtra", "slug": "maharashtra", "code": 27 },
+  { "name": "Gujarat", "slug": "gujarat", "code": 24 },
+  { "name": "Karnataka", "slug": "karnataka", "code": 29 },
+  { "name": "Tamil Nadu", "slug": "tamil-nadu", "code": 33 }
+]
